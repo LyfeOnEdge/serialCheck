@@ -3,8 +3,7 @@ import re
 import style
 import tkinter as tk
 import urllib.request
-from gui.plugins import basePlugin
-from gui.widgets import basePage
+from gui.widgets import basePlugin, basePage
 from appstore import Appstore
 from asyncthreader import threader
 
